@@ -85,7 +85,8 @@ Làm Tương tự với các bảng còn lại, ta được như sau:
 
   + LopSV(#@maLop,#@maSV,ChucVu)'
     
-![image](https://github.com/user-attachments/assets/2c303236-429f-49e8-8af4-b420f80111f5)
+![image](https://github.com/user-attachments/assets/fb9c942f-41ef-4095-b49c-ec28914cc704)
+
 
 
  + GiaoVien(#magv,hoten,NgaySinh,@maBM)
@@ -103,7 +104,64 @@ Làm Tương tự với các bảng còn lại, ta được như sau:
     ![image](https://github.com/user-attachments/assets/e2e9557b-8bf3-41b0-afce-690798b4330f)
 
 
+ + LopHP(#maLopHP,TenLopHP,HK,@maMon,@maGV)
+   ![image](https://github.com/user-attachments/assets/53a359b6-553f-4e5b-a0f3-4c0b331a793a)
+   
++ DKMH(#@maLopHP,#@maSV,DiemTP,DiemThi,PhanTramThi)
+  ![image](https://github.com/user-attachments/assets/29a5cfe3-59fa-4285-8c68-68e709a07e82)
+
+6 Nhập Thông tin bảng
+![image](https://github.com/user-attachments/assets/762d8814-23b0-4ab8-97f6-b45502a0f439)
+
+ +Nhập thông tin cho bảng sinh viên
+ 
+ ![image](https://github.com/user-attachments/assets/ca301914-29b3-4525-a978-b87e15c52642)
+
+ 
+ + Nhập thông tin cho bảng môn học
+   ![image](https://github.com/user-attachments/assets/a9c7f750-004e-452a-a293-43493d41a501)
+
++ Nhập thông tin cho LopSv
+  ![image](https://github.com/user-attachments/assets/b3f696cc-d5f7-402b-9baf-8c1489a34b26)
 
 
+NHập thông tin cho lop HP
+![image](https://github.com/user-attachments/assets/a9f0da44-b013-4e7d-a88e-fc4615af2bb5)
 
+Nhập thông tin cho Lop
+![image](https://github.com/user-attachments/assets/641c7f63-6e97-402e-ae10-35c279d28364)
+
+nhập thông tin cho Khoa
+![image](https://github.com/user-attachments/assets/1cc1e56f-ac91-4b61-b62e-4428180ae910)
+
+nhập thông tin GVCN
+![image](https://github.com/user-attachments/assets/f35b8a5d-d2ab-4041-af63-cbb475ba3f7d)
+
+nhap thong tin Giao Vien
+![image](https://github.com/user-attachments/assets/d8c125a3-0ba1-471a-bd41-8d5f338d1a88)
+
+nhap thong tin dkmh
+![image](https://github.com/user-attachments/assets/acbd26fa-f39a-40ff-b5a4-69be84c48d94)
+
+nhap thong tin bo mon 
+![image](https://github.com/user-attachments/assets/9f4b765a-a3b6-4703-81e6-ceca9131cdec)
+
+
+7 tạo khóa ngoại
+bước 1
+![image](https://github.com/user-attachments/assets/108a982e-9660-4a3e-8324-3be40e9b8a6d)
+bước 2 
+![image](https://github.com/user-attachments/assets/b70ad4a5-76ff-47ac-b94f-8c24464afe21)
+
+bước 3
+![image](https://github.com/user-attachments/assets/4b3e9b67-75ce-42f5-958a-ea350e80ec7c)
+ sau đó ctrl+s để lưu thiết lập
+  Bảng giáo viên 
+   ![image](https://github.com/user-attachments/assets/2389cb2b-17cf-4e94-968b-00aa51bc8f8b)
+ các bảng khác làm tương tự
+ bảng bộ môn 
+ ![image](https://github.com/user-attachments/assets/6b7b3e79-3bfd-413f-8fa3-2b8a3cb4a066)
+ ... 
+
+ 
 
